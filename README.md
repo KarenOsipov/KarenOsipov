@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I am a beginner Python developer actively learning
 
 I'm always interested in connecting with other developers and learning from the community.
 
-*   LinkedIn: [/in/your-profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/karen-osipov-877337382/))
-*   Telegram: [@karens4k]
-*   Email: [karenosipov3567@gmail.com]
+*   (LinkedIn)[https://www.linkedin.com/in/karen-osipov-877337382/]
+*   (Telegram)[@karens4k]
+*   (Email)[karenosipov3567@gmail.com]
 
 ---
 
