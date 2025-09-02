@@ -1,16 +1,28 @@
-## Hi there 👋
+# [Karen]
 
-<!--
-**KarenOsipov/KarenOsipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Python Developer | Programming Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a beginner Python developer actively learning and building my skills in software development. I am enthusiastic about problem-solving, clean code, and continuous learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+*   **Languages:** Python
+*   **Databases:** SQLite (Learning)
+*   **Tools & Platforms:** Git, GitHub, VS Code
+
+## 🌱 I’m currently learning
+
+*   Python Core (OOP, Data Structures, Algorithms)
+*   Web Development Fundamentals (HTML, CSS)
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other developers and learning from the community.
+
+*   LinkedIn: [/in/your-profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/karen-osipov-877337382/))
+*   Telegram: [@karens4k]
+*   Email: [karenosipov3567@gmail.com]
+
+---
+
+⭐️ *From [your-github-username](https://github.com/your-github-username)*
